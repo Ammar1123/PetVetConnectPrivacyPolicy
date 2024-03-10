@@ -36,11 +36,8 @@ VI. No Warranty
 
 Due to the nature of veterinary services and the reliance on client-provided information, PetVetConnect does not warrant the completeness, accuracy, or reliability of advice or treatments provided through its platform. All services are provided based on the information available at the time of consultation.
 
-VII. Withdrawal Right
 
-Given the nature of PetVetConnect’s services, the right of withdrawal may not apply to all services provided. For services where withdrawal rights apply, clients have the right to withdraw within [specify duration] from the day of the service agreement without giving any reason.
-
-VIII. Safety Information and Use Instructions
+VII. Safety Information and Use Instructions
 
 PetVetConnect services are intended to supplement, not replace, the traditional veterinary care process. It is crucial to follow all instructions and advice provided by veterinarians through the platform. In emergency situations, seek immediate in-person veterinary care.
 
